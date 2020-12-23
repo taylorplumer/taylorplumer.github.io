@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Data Science, Product Management, Programming, and Economics blog
 twitter_username: username
 github_username: taylorplumer
-minimal_mistakes_skin: dirt
+minimal_mistakes_skin: default
 search: true
 
 # Build settings
@@ -56,22 +56,16 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Taylor Plumer"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Thoughts and musings on Analytics Engineering, Data Science, Product Management, and Economics"
-  #links:
-    - #label: "Website"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/taylorplumer"
+    #- label: "Website"
       #icon: "fas fa-fw fa-link"
       #url: "https://"
-    - #label: "Twitter"
-      #icon: "fab fa-fw fa-twitter-square"
-      #url: "https://twitter.com/"
-    - #label: "GitHub"
-      #icon: "fab fa-fw fa-github"
-      #url: "https://github.com/"
-    - #label: "Instagram"
-      #icon: "fab fa-fw fa-instagram"
-      #url: "https://instagram.com/"
 
 footer:
   links:
@@ -80,7 +74,7 @@ footer:
       #url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/taylorplumer"
     - #label: "Instagram"
       #icon: "fab fa-fw fa-instagram"
       #url: "https://instagram.com/"
@@ -91,7 +85,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: archive
       author_profile: true
       read_time: true
       comments: true
