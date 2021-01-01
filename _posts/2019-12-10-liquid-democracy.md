@@ -1,5 +1,5 @@
 ---
-title: "Liquid Democracy: How decentralized “Netflixs for Politics” could be the solution to our democratic woes"
+title: "Liquid Democracy (WIP)"
 
 categories:
   - Governance
