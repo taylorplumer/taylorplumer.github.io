@@ -1,3 +1,14 @@
+---
+title: "Build A Dash Web App For Binary Classification Model Selection"
+categories:
+  - Machine Learning
+tags:
+  - Machine Learning
+  - Classification
+  - Plotly Dash
+  - Data Visualization
+---
+
 ## Automatically curate a compilation of machine learning visual diagnostics
 
 ![]( https://miro.medium.com/max/700/0*kn1FOoxVrXmoGQuW )

@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Taylor Plumer"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Thoughts and musings on Analytics Engineering, Data Science, Product Management, and Economics"
+  bio    : "Thoughts and musings on Analytics Engineering, Complexity Economics, Data Science, and Product Management"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
