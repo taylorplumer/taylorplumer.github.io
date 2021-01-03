@@ -6,6 +6,8 @@ categories:
 tags:
   - Computer Science
 ---
+*Creating code + community amid a pandemic*
+
 ![](https://www.chiefdelphi.com/uploads/default/original/3X/8/9/890fbfbcf459256e8116082c478b3dfa7839d00b.jpeg){:height="500px" width="500px"}
 
 ## Context
