@@ -8,7 +8,7 @@ tags:
   - Recommender Systems
 ---
 
-*This post is a work in progress (WIP) for exploring the use of recommender systems in liquid democracy.*
+*This post is a work in progress (WIP) for exploring the use of recommender systems in liquid democracy. Code repository and white paper forthcoming.*
 
 ## Abstract
 
