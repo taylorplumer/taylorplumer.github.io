@@ -16,7 +16,7 @@
 title: Taylor Plumer
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Data Science, Product Management, Programming, and Economics blog
+  Thoughts and musings on Analytics Engineering, Data Science, and Product Management
 twitter_username: username
 github_username: taylorplumer
 minimal_mistakes_skin: default
@@ -63,7 +63,7 @@ plugins:
 author:
   name   : "Taylor Plumer"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Thoughts and musings on Analytics Engineering, Complexity Economics, Data Science, and Product Management"
+  bio    : "Thoughts and musings on Analytics Engineering, Data Science, and Product Management"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
